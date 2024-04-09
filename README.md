@@ -20,3 +20,6 @@
 > start-all.sh: 启动所有的hdfs和yarn的脚本
 >
 > stop-all.sh: 停止所有的hdfs和yarn的脚本
+
+## 启动hive 与外部idea客户端连接
+> hive --service hiveserver2 &
