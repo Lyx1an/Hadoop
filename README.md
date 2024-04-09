@@ -23,3 +23,7 @@
 
 ## 启动hive 与外部idea客户端连接
 > hive --service hiveserver2 &
+
+
+## 启动redis 在redis目录下
+# bin/redis-server conf/redis.conf 
