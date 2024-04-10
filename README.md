@@ -26,4 +26,4 @@
 
 
 ## 启动redis 在redis目录下
-# bin/redis-server conf/redis.conf 
+> bin/redis-server conf/redis.conf 
